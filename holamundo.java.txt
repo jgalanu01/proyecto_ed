@@ -1,7 +1,8 @@
 public class HolaMundo {
 	public static void main (string [] args)}
 	
-	System.outprintin("HolaMundo");
+	System.out.println("HolaMundo");
+	Sysrem.out.println("Buenos días");
 	
 	}
 } 
