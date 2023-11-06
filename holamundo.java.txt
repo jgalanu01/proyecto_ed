@@ -1,0 +1,7 @@
+public class HolaMundo {
+	public static void main (string [] args)}
+	
+	System.outprintin("HolaMundo");
+	
+	}
+} 
