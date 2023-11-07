@@ -1,0 +1,15 @@
+public class holapersona {
+	public static void main (string [] args)}
+	Scanner ec=new Scanner (system.in);
+	String nombre;
+	System.out.println("Introduce tu nombre");
+
+	nombre=mc.Next();
+
+	System.out.println("Buenos días" + nombre)
+	
+	
+
+	
+	}
+} 
